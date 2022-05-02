@@ -1,0 +1,16 @@
+{
+  "name": "tech-gui-pmn",
+  "version": "1.0.1",
+  "description": "Primiero Modulo em NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "estudo",
+    "funcoes"
+  ],
+  "author": "Guilherme",
+  "license": "ISC"
+}

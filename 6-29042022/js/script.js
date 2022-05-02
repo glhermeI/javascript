@@ -2,7 +2,7 @@
  *  Realizar a consulta dos dados do filme na api do the moviedb
  * vamos utilizar o comando fetch byscar|pesquisar e ele tem 2 elementos
  * para trabalhar.
- * - then (então) quando o resultado é um erro.
+ * - then (então) quando o resultado não é um erro.
  * - cacth (capturar) quando o resultado é um erro.
  */
 function carregarFilmes(){
