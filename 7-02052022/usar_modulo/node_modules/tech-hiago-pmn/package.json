@@ -1,16 +1,16 @@
 {
-  "name": "tech-gui-pmn",
+  "name": "tech-hiago-pmn",
   "version": "1.0.1",
-  "description": "Primiero Modulo em NodeJS",
+  "description": "Primeiro Modulo NodeJs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "Nodejs",
-    "estudo",
-    "funcoes"
+    "Estudo",
+    "Funcoes"
   ],
-  "author": "Guilherme",
+  "author": "Hiago Laureano",
   "license": "ISC"
 }

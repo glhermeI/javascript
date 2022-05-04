@@ -1,4 +1,7 @@
-const tech = require("tech-gui-pmn");
-console.log("Projeto Usar Módulo");
-const pr = new tech.Produto("Mouse", "Sem Fio", "98");
-tech.Cadastro(pr);
+const tech = require("tech-hiago-pmn");
+
+console.log("Projeto Usar Modulo");
+
+const pr = new tech.Produto("Mouse", "Sem fio", "98");
+
+tech.cadastro(pr);
